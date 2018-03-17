@@ -1,0 +1,2 @@
+# AutomationProject
+just apllication repository
